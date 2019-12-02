@@ -171,14 +171,7 @@ font-family: "Comic Sans MS",	cursive;
     color:white;
     font-family: "Comic Sans MS",	cursive;
 }
-/* .img-overlay{
-  position: absolute;
-  width: 341px;
-  height: 306px;
-background: rgba(80, 184, 114, 0.85);
-  border-radius:3%;
-} */
-/**//**//**//**//**//**//**//**//**//**//*(не получилось наложить цвет на картинку)*/
+
 .imgcenter_text {
 display: flex;
 flex-direction: row;
